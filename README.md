@@ -1,5 +1,6 @@
 # Sampling
 
-![image](https://user-images.githubusercontent.com/101132056/233792576-68941497-57e3-4cdc-9ae0-bf65ea867a45.png)
+![image](https://user-images.githubusercontent.com/101132056/233792692-757a7cec-ecf3-4fc1-b6d9-c5cd52df604c.png)
+
 
 On comparing, we can see that when we apply `XGBoost` on `Systematic Sampling`, we get the highest accuracy.
